@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "new post"
+date:   2022-03-04 10:57:44 +0900
+categories: jekyll update
+---
+## Post 1
+
+This is a post about *jekyll*. <br>
+*Jekyll* is a static site generator. This software is based on *Ruby*. \
+You can **easily** make your own site with this.\
+It transform from markdown to HTML automatically.
+
+If you want to run your server, you just put a line ``bundle exec jekyll serve`` on *cmd* or *hyper*.
+
