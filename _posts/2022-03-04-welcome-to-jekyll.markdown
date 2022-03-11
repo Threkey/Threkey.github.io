@@ -84,16 +84,3 @@ int main()
 
 link : [이건 링크입니다](http://youtube.com)\
 image : ![이건 이미지입니다](https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492__340.jpg)
-
-
-## git 사용
-* git : 명령어목록
-* git status : 상태보기
-* git add : 스테이지에 올리기
-* git commit
-* git push : github (온라인저장소에 업로드)
-* git pull : github (온라인저장소에서 다운로드)
-* git log : commit 기록 보기
-* git branch
-* git checkout
-* git reset

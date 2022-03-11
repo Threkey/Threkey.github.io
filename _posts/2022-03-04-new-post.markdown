@@ -13,3 +13,21 @@ It transform from markdown to HTML automatically.
 
 If you want to run your server, you just put a line ``bundle exec jekyll serve`` on *cmd* or *hyper*.
 
+## Post 2
+### 1. 알고리즘의 시간복잡도 표현
+
+* 빅 오 : 점근적 상한, 이것보다 나쁠 수 없다.
+* 빅 오메가 : 점근적 하한, 이것보다 좋을 수 없다.
+* 빅 세타 : 상한과 하한을 묶어서 표현한 것.
+
+### 2. git 사용
+* git : 명령어목록
+* git status : 상태보기
+* git add : 스테이지에 올리기
+* git commit : 메시지 넣기
+* git push : github (온라인저장소에 업로드)
+* git pull : github (온라인저장소에서 다운로드)
+* git log : commit 기록 보기
+* git branch
+* git checkout
+* git reset
